@@ -35,7 +35,7 @@ function z=CostFunction(x)%%%%%%%%M, A, o,a, b, Abenchmark_func
 %  x=x-repmat(o,ps,1);
 % % z=10*Di + sum(x.^2 - 10*cos(2.*pi.*x));
 % z= sum(x .^ 2 - 10 .* cos(2 .* pi .* x) + 10, 2);
-%%%%&&&&
+%%%%&&&
 
 %% F5
 % % 5 - Griewank,s_shift_func
