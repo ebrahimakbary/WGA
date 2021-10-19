@@ -1,4 +1,4 @@
-function z=Cost(x)%%%%%%%%M, A, o,a, b, Abenchmark_func
+function z=CostFunction(x)%%%%%%%%M, A, o,a, b, Abenchmark_func
  
  Di=length(x);
  [ps,D]=size(x);
